@@ -1,1 +1,1 @@
-asdadhihi
+alert("Hello World");
